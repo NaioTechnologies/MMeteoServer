@@ -1,0 +1,1 @@
+java -jar mmeteo-1.0.0.jar -Dlog4j.configuration="file:\home\joan\mmeteo\log4j.production.properties"

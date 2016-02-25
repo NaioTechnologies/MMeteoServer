@@ -1,0 +1,3 @@
+JDBC_DB_CONNECTION_STRING=jdbc:postgresql://xxx.xxx.com:5433/xxx
+JDBC_DB_USER=xxx
+JDBC_DB_PASSWORD=xxx
